@@ -45,3 +45,9 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TiviTürk" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Müzik",TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-name="TRT Türkü" tvg-id="TRT Türkü.tr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio9FMttnrYYK0-ew58PKgCCQ4T4Yd5kHYES2VN37vsIBpsLFz4hgnLPzt9MPa7fIvz-MmVT13-D3bn0LRyMZmy885Io2nEzICPdBAg4BW3y5hp0Cw0QG5wHr3DgR2bxtngJwfr9w4rOnxn/s1600-rw/22.jpg" group-title="Müzik",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Slow Türk" tvg-id="Slow Türk.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Müzik",Slow Türk
+http://87.121.104.29:7101/stream/sturk.m3u8
+#EXTINF:-1 tvg-name="Joy Türk" tvg-id="Joy Türk.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" group-title="Müzik",Joy Türk
+http://87.121.104.29:7101/stream/joyturk.m3u8
