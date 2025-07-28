@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV+ Info" tvg-name="TV+ Info" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202503/20250329/99/2043262445345eb7f426_op.png" group-title="Canlı",TV+ Info
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=177
+#EXTINF:-1 tvg-id="EPIC DRAMA" tvg-name="EPIC DRAMA" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180803/001300/XTV100000912/52f8b2a6-a929-417f-94ae-dd563393db7b.png" group-title="Canlı",EPIC DRAMA
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=167
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160211/001300/001300000000000741833/50991a1c-3582-4254-8f5d-57b85edadafc.png" group-title="Canlı",FX HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=131
+#EXTINF:-1 tvg-id="BluTV Play 1" tvg-name="BluTV Play 1" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/71/20230407123904252f8b_op.png" group-title="Canlı",BluTV Play 1
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=4300
+#EXTINF:-1 tvg-id="BluTV Play 2" tvg-name="BluTV Play 2" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/78/2023042508251747577n_op.png" group-title="Canlı",BluTV Play 2
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=4302
+#EXTINF:-1 tvg-id="tabii TV" tvg-name="tabii TV" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/68/1053515261955eb8f42a_op.png" group-title="Canlı",tabii TV
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=4400
+#EXTINF:-1 tvg-id="SİNEMA YERLİ HD" tvg-name="SİNEMA YERLİ HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/20200203234951578wxa_op.png" group-title="Canlı",SİNEMA YERLİ HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=12
+#EXTINF:-1 tvg-id="SİNEMA TV HD" tvg-name="SİNEMA TV HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/202002032344555836cl_op.png" group-title="Canlı",SİNEMA TV HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=166
+#EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD" tvg-name="SİNEMA TV AKSİYON HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/202001271649562109k7_op.png" group-title="Canlı",SİNEMA TV AKSİYON HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=129
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD" tvg-name="SİNEMA KOMEDİ HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202003/20200327/20200327092343508xkg_op.png" group-title="Canlı",SİNEMA KOMEDİ HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=154
+#EXTINF:-1 tvg-id="SİNEMA AİLE HD" tvg-name="SİNEMA AİLE HD" tvg-logo="https://brsottvsc02.tvplus.com.tr:33207/CPS/images/universal/film/logo/202003/20200327/20200327092343508xkg_op.png" group-title="Canlı",SİNEMA AİLE HD
+#EXTVLCOPT:http-origin=https://golgetv.com
+#EXTVLCOPT:http-referer=https://golgetv.com/
+#EXTVLCOPT:http-header=X-Requested-With: com.golge.golgetv
+#EXTVLCOPT:http-header=X-Forwarded-For: 1.1.1.1
+https://androidtv.site/panel/tvplus/tvarti.php?id=155
